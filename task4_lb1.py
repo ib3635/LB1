@@ -2,7 +2,7 @@ from telethon.sync import TelegramClient
 from dotenv import load_dotenv
 import os
 
-# Загружаем переменные из .env
+
 load_dotenv()
 
 # Получаем данные из переменных окружения
